@@ -6,7 +6,7 @@ Repository for the article "Standardized and calibrated light stimuli via head-m
 
 ## Preprint
 
-> Fernandez-Alonso, M., & Spitschan, M. (2025). Standardized and calibrated light stimuli via head-mounted displays for investigating the non-visual effects of light. bioRxiv. https://doi.org/10.1101/2025.01.15.633125
+> Fernandez-Alonso, M., & Spitschan, M. (2025). Standardized and calibrated light stimuli via head-mounted displays for investigating the non-visual effects of light. /bioRxiv/. https://doi.org/10.1101/2025.01.15.633125
 
 ## Licenses
 
