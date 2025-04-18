@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Standardized and calibrated light stimuli via head-mounted displays for investigating the non-visual effects of light"
+authors:
+  - family-names: Fernandez Alonso
+    given-names: Maydel
+    orcid: https://orcid.org/0000-0002-3179-7476
+  - family-names: Spitschan
+    given-names: Manuel
+    orcid: https://orcid.org/0000-0002-8572-9268
+date-released: 2025-04-17
+doi: 10.1101/2025.01.15.633125
+url: https://www.biorxiv.org/content/10.1101/2025.01.15.633125
+repository-code:https://github.com/spitschan/FernandezAlonsoEtAl_JPinealRes_2025
+preferred-citation:
+  type: article-preprint
+  title: "Standardized and calibrated light stimuli via head-mounted displays for investigating the non-visual effects of light"
+  authors:
+    - family-names: Fernandez Alonso
+      given-names: Maydel
+      orcid: https://orcid.org/0000-0002-3179-7476
+    - family-names: Spitschan
+      given-names: Manuel
+      orcid: https://orcid.org/0000-0002-8572-9268
+  year: 2025
+  doi: 10.1101/2025.01.15.633125
+  url: https://www.biorxiv.org/content/10.1101/2025.01.15.633125
