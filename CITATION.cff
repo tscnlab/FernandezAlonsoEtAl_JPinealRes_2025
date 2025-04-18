@@ -13,7 +13,7 @@ doi: 10.1101/2025.01.15.633125
 url: https://www.biorxiv.org/content/10.1101/2025.01.15.633125
 repository-code:https://github.com/spitschan/FernandezAlonsoEtAl_JPinealRes_2025
 preferred-citation:
-  type: article-preprint
+  type: article
   title: "Standardized and calibrated light stimuli via head-mounted displays for investigating the non-visual effects of light"
   authors:
   - family-names: Fernandez-Alonso
