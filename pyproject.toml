@@ -1,0 +1,21 @@
+[project]
+name = "binintmel-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib==3.10",
+    "numpy==2.2",
+    "pandas==2.2.3",
+    "pathlib==1.0.1",
+    "pyarrow==18.1",
+    "scipy==1.14",
+    "seaborn==0.13",
+    "spyder-kernels==3.0.*",
+    "openpyxl==3.1",
+    "pygame",
+    "luxpy>=1.11.4",
+    "pyplr>=1.0.3",
+    "picosdk>=1.1",
+]
