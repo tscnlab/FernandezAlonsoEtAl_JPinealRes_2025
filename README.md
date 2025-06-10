@@ -14,7 +14,7 @@ The reference to the earlier preprint is:
 
 ## Large files
 
-Two large files could not be added to this GitHub repository due to file size restrictions. They can be found here: https://doi.org/10.5281/zenodo.15633759.
+Two large files could not be added to this GitHub repository due to file size restrictions. They can be found in a separate Zenodo repository (DOI: [10.5281/zenodo.15633759](https://doi.org/10.5281/zenodo.15633759).
 
 ## Technical note on VR adapters
 
